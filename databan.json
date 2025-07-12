@@ -2,7 +2,7 @@
     {
         "id": "ban1",
         "nama": "Bridgestone Ecopia EP150",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 550000,
             "merk": "Bridgestone",
@@ -25,7 +25,7 @@
     {
         "id": "ban2",
         "nama": "GT Radial Champiro Eco",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 620000,
             "merk": "GT Radial",
@@ -48,7 +48,7 @@
     {
         "id": "ban3",
         "nama": "Achilles 122",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 480000,
             "merk": "Achilles",
@@ -71,7 +71,7 @@
     {
         "id": "ban4",
         "nama": "Accelera Eco Plush",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 470000,
             "merk": "Accelera",
@@ -94,7 +94,7 @@
     {
         "id": "ban5",
         "nama": "Michelin Primacy 4ST",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 1200000,
             "merk": "Michelin",
@@ -117,7 +117,7 @@
     {
         "id": "ban6",
         "nama": "Yokohama BluEarth AE01",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 900000,
             "merk": "Yokohama",
@@ -140,7 +140,7 @@
     {
         "id": "ban7",
         "nama": "Toyo Proxes TR1",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 1500000,
             "merk": "Toyo",
@@ -163,7 +163,7 @@
     {
         "id": "ban8",
         "nama": "Goodyear Assurance TM2",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 1100000,
             "merk": "Goodyear",
@@ -186,7 +186,7 @@
     {
         "id": "ban9",
         "nama": "Kumho Ecsta PS31",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 790000,
             "merk": "Kumho",
@@ -209,7 +209,7 @@
     {
         "id": "ban10",
         "nama": "Dunlop Enasave SP Sport",
-        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "gambar": "images/ep_tyres_accelera_eco_plush_165_65_r14.jpg",
         "kriteria": {
             "harga": 480000,
             "merk": "Dunlop",
