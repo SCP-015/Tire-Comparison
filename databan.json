@@ -1,0 +1,232 @@
+[
+    {
+        "id": "ban1",
+        "nama": "Bridgestone Ecopia EP150",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 550000,
+            "merk": "Bridgestone",
+            "diameter ban": 14,
+            "kecepatan maksimum": 180,
+            "beban maksimum": 950,
+            "kondisi medan": "Highway Terrain (H/T)",
+            "pola tapak": "Simetris"
+        },
+        "skor_kriteria": {
+            "harga": 3,
+            "merk": 3,
+            "diameter ban": 1,
+            "kecepatan maksimum": 3,
+            "beban maksimum": 3,
+            "kondisi medan": 1,
+            "pola tapak": 1
+        }
+    },
+    {
+        "id": "ban2",
+        "nama": "GT Radial Champiro Eco",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 620000,
+            "merk": "GT Radial",
+            "diameter ban": 15,
+            "kecepatan maksimum": 170,
+            "beban maksimum": 880,
+            "kondisi medan": "All Terrain (A/T)",
+            "pola tapak": "Asimetris"
+        },
+        "skor_kriteria": {
+            "harga": 3,
+            "merk": 2,
+            "diameter ban": 1,
+            "kecepatan maksimum": 2,
+            "beban maksimum": 2,
+            "kondisi medan": 3,
+            "pola tapak": 2
+        }
+    },
+    {
+        "id": "ban3",
+        "nama": "Achilles 122",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 480000,
+            "merk": "Achilles",
+            "diameter ban": 13,
+            "kecepatan maksimum": 160,
+            "beban maksimum": 600,
+            "kondisi medan": "Mud Terrain (M/T)",
+            "pola tapak": "Directional / Searah"
+        },
+        "skor_kriteria": {
+            "harga": 3,
+            "merk": 2,
+            "diameter ban": 1,
+            "kecepatan maksimum": 2,
+            "beban maksimum": 2,
+            "kondisi medan": 2,
+            "pola tapak": 3
+        }
+    },
+    {
+        "id": "ban4",
+        "nama": "Accelera Eco Plush",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 470000,
+            "merk": "Accelera",
+            "diameter ban": 14,
+            "kecepatan maksimum": 190,
+            "beban maksimum": 437,
+            "kondisi medan": "Highway Terrain (H/T)",
+            "pola tapak": "Simetris"
+        },
+        "skor_kriteria": {
+            "harga": 3,
+            "merk": 1,
+            "diameter ban": 1,
+            "kecepatan maksimum": 3,
+            "beban maksimum": 1,
+            "kondisi medan": 1,
+            "pola tapak": 1
+        }
+    },
+    {
+        "id": "ban5",
+        "nama": "Michelin Primacy 4ST",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 1200000,
+            "merk": "Michelin",
+            "diameter ban": 17,
+            "kecepatan maksimum": 200,
+            "beban maksimum": 1000,
+            "kondisi medan": "Highway Terrain (H/T)",
+            "pola tapak": "Asimetris"
+        },
+        "skor_kriteria": {
+            "harga": 2,
+            "merk": 3,
+            "diameter ban": 2,
+            "kecepatan maksimum": 3,
+            "beban maksimum": 3,
+            "kondisi medan": 1,
+            "pola tapak": 2
+        }
+    },
+    {
+        "id": "ban6",
+        "nama": "Yokohama BluEarth AE01",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 900000,
+            "merk": "Yokohama",
+            "diameter ban": 15,
+            "kecepatan maksimum": 160,
+            "beban maksimum": 820,
+            "kondisi medan": "All Terrain (A/T)",
+            "pola tapak": "Asimetris"
+        },
+        "skor_kriteria": {
+            "harga": 2,
+            "merk": 1,
+            "diameter ban": 1,
+            "kecepatan maksimum": 2,
+            "beban maksimum": 2,
+            "kondisi medan": 3,
+            "pola tapak": 2
+        }
+    },
+    {
+        "id": "ban7",
+        "nama": "Toyo Proxes TR1",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 1500000,
+            "merk": "Toyo",
+            "diameter ban": 19,
+            "kecepatan maksimum": 220,
+            "beban maksimum": 1020,
+            "kondisi medan": "Highway Terrain (H/T)",
+            "pola tapak": "Directional / Searah"
+        },
+        "skor_kriteria": {
+            "harga": 1,
+            "merk": 2,
+            "diameter ban": 2,
+            "kecepatan maksimum": 3,
+            "beban maksimum": 3,
+            "kondisi medan": 1,
+            "pola tapak": 3
+        }
+    },
+    {
+        "id": "ban8",
+        "nama": "Goodyear Assurance TM2",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 1100000,
+            "merk": "Goodyear",
+            "diameter ban": 17,
+            "kecepatan maksimum": 190,
+            "beban maksimum": 940,
+            "kondisi medan": "Highway Terrain (H/T)",
+            "pola tapak": "Asimetris"
+        },
+        "skor_kriteria": {
+            "harga": 2,
+            "merk": 1,
+            "diameter ban": 2,
+            "kecepatan maksimum": 3,
+            "beban maksimum": 3,
+            "kondisi medan": 1,
+            "pola tapak": 2
+        }
+    },
+    {
+        "id": "ban9",
+        "nama": "Kumho Ecsta PS31",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 790000,
+            "merk": "Kumho",
+            "diameter ban": 16,
+            "kecepatan maksimum": 170,
+            "beban maksimum": 850,
+            "kondisi medan": "Mud Terrain (M/T)",
+            "pola tapak": "Simetris"
+        },
+        "skor_kriteria": {
+            "harga": 3,
+            "merk": 1,
+            "diameter ban": 1,
+            "kecepatan maksimum": 2,
+            "beban maksimum": 2,
+            "kondisi medan": 2,
+            "pola tapak": 1
+        }
+    },
+    {
+        "id": "ban10",
+        "nama": "Dunlop Enasave SP Sport",
+        "gambar": "images\\ep_tyres_accelera_eco_plush_165_65_r14.jpg",
+        "kriteria": {
+            "harga": 480000,
+            "merk": "Dunlop",
+            "diameter ban": 16,
+            "kecepatan maksimum": 180,
+            "beban maksimum": 750,
+            "kondisi medan": "All Terrain (A/T)",
+            "pola tapak": "Directional / Searah"
+        },
+        "skor_kriteria": {
+            "harga": 3,
+            "merk": 3,
+            "diameter ban": 1,
+            "kecepatan maksimum": 3,
+            "beban maksimum": 2,
+            "kondisi medan": 3,
+            "pola tapak": 3
+        }
+    }
+]
