@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import json
 from collections import Counter
-import plotly.express as px
+# import plotly.express as px
 from data_handler import load_ban_list
 from electre import electre_with_steps
 from utils import sub_kriteria, bobot_opsi_per_kriteria, get_all_reverse_maps
