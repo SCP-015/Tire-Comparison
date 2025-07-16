@@ -1,0 +1,324 @@
+[
+    {
+        "name": "Budi Santoso",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Aplikasinya mudah dipahami, tinggal ikuti langkah-langkahnya saja."
+    },
+    {
+        "name": "Siti Nurhayati",
+        "email": "",
+        "rating": 5,
+        "category": "Akurasi Hasil",
+        "text": "Hasil rekomendasinya tepat sesuai dengan yang saya butuhkan."
+    },
+    {
+        "name": "Agus Prasetyo",
+        "email": "",
+        "rating": 4,
+        "category": "Tampilan Interface",
+        "text": "Tampilannya rapi dan jelas, gampang digunakan."
+    },
+    {
+        "name": "Rina Wulandari",
+        "email": "",
+        "rating": 4,
+        "category": "Fitur Tambahan",
+        "text": "Fitur step-by-step sangat membantu memahami cara kerja sistem."
+    },
+    {
+        "name": "Sugeng Widodo",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Petunjuknya jelas dan prosesnya tidak membingungkan."
+    },
+    {
+        "name": "Sri Wahyuni",
+        "email": "",
+        "rating": 4,
+        "category": "Akurasi Hasil",
+        "text": "Hasilnya mendekati ekspektasi saya, lumayan memuaskan."
+    },
+    {
+        "name": "Andi Supriyanto",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "Desainnya simpel, nyaman untuk digunakan lama."
+    },
+    {
+        "name": "Ratna Puspitasari",
+        "email": "",
+        "rating": 5,
+        "category": "Fitur Tambahan",
+        "text": "Fitur visualisasinya sangat membantu untuk belajar metode."
+    },
+    {
+        "name": "Yudi Pranoto",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Gampang sekali digunakan meskipun pertama kali mencoba."
+    },
+    {
+        "name": "Sulastri Handayani",
+        "email": "",
+        "rating": 5,
+        "category": "Akurasi Hasil",
+        "text": "Rekomendasinya sesuai dengan preferensi saya."
+    },
+    {
+        "name": "Slamet Riyadi",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "Interface bersih dan jelas, mudah menemukan menu."
+    },
+    {
+        "name": "Tutik Suryani",
+        "email": "",
+        "rating": 4,
+        "category": "Fitur Tambahan",
+        "text": "Fitur tambahan seperti langkah-langkah detailnya membantu sekali."
+    },
+    {
+        "name": "Cahyo Nugroho",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Cocok untuk pemula karena alurnya jelas."
+    },
+    {
+        "name": "Nur Aini",
+        "email": "",
+        "rating": 4,
+        "category": "Akurasi Hasil",
+        "text": "Cukup tepat dalam memberikan rekomendasi."
+    },
+    {
+        "name": "Rizki Wahyu",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "Layoutnya tidak rumit, memudahkan navigasi."
+    },
+    {
+        "name": "Kartika Dewi",
+        "email": "",
+        "rating": 5,
+        "category": "Fitur Tambahan",
+        "text": "Langkah-langkah perhitungan disajikan jelas sekali."
+    },
+    {
+        "name": "Joko Susanto",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Penggunaan sangat simpel, mudah diikuti."
+    },
+    {
+        "name": "Indah Lestari",
+        "email": "",
+        "rating": 4,
+        "category": "Akurasi Hasil",
+        "text": "Rekomendasi cukup membantu memilih yang sesuai."
+    },
+    {
+        "name": "Eko Saputro",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "Antarmuka sederhana dan informatif."
+    },
+    {
+        "name": "Nina Kurniasih",
+        "email": "",
+        "rating": 5,
+        "category": "Fitur Tambahan",
+        "text": "Fitur tambahannya memudahkan belajar metode."
+    },
+    {
+        "name": "Hadi Purnomo",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Prosesnya ringkas dan cepat dipahami."
+    },
+    {
+        "name": "Sari Melati",
+        "email": "",
+        "rating": 5,
+        "category": "Akurasi Hasil",
+        "text": "Hasil rekomendasinya sesuai data yang saya masukkan."
+    },
+    {
+        "name": "Teguh Raharjo",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "Warna dan tata letak memudahkan fokus."
+    },
+    {
+        "name": "Lilis Mawar",
+        "email": "",
+        "rating": 4,
+        "category": "Fitur Tambahan",
+        "text": "Step-by-stepnya bikin mudah paham alur perhitungan."
+    },
+    {
+        "name": "Wahyu Hidayat",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Sangat ramah pengguna, tidak ribet."
+    },
+    {
+        "name": "Triana Puspita",
+        "email": "",
+        "rating": 4,
+        "category": "Akurasi Hasil",
+        "text": "Cukup sesuai dengan yang saya harapkan."
+    },
+    {
+        "name": "Bayu Arianto",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "Navigasi fitur-fitur sangat mudah dipahami."
+    },
+    {
+        "name": "Wulandari Setyaningsih",
+        "email": "",
+        "rating": 5,
+        "category": "Fitur Tambahan",
+        "text": "Fitur perbandingan sangat membantu."
+    },
+    {
+        "name": "Seno Prabowo",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Tampilan menu jelas, tidak bikin bingung."
+    },
+    {
+        "name": "Fitri Handayani",
+        "email": "",
+        "rating": 5,
+        "category": "Akurasi Hasil",
+        "text": "Hasilnya sesuai dengan kriteria yang saya pilih."
+    },
+    {
+        "name": "Andri Setiawan",
+        "email": "",
+        "rating": 4,
+        "category": "Tampilan Interface",
+        "text": "Antarmuka nyaman dilihat dan rapi."
+    },
+    {
+        "name": "Mila Kusuma",
+        "email": "",
+        "rating": 5,
+        "category": "Fitur Tambahan",
+        "text": "Visualisasi detailnya membantu memahami hasil."
+    },
+    {
+        "name": "Hendra Kurnia",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Langkah-langkahnya runut, memudahkan proses."
+    },
+    {
+        "name": "Nurul Aisyah",
+        "email": "",
+        "rating": 5,
+        "category": "Akurasi Hasil",
+        "text": "Rekomendasi yang keluar pas sekali dengan kebutuhan."
+    },
+    {
+        "name": "Suryo Wibowo",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "Tampilannya memudahkan dalam pencarian fitur."
+    },
+    {
+        "name": "Rosa Permata",
+        "email": "",
+        "rating": 5,
+        "category": "Fitur Tambahan",
+        "text": "Fitur tambahan seperti grafik sangat informatif."
+    },
+    {
+        "name": "Arif Susanto",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Gampang digunakan, jelas sekali alurnya."
+    },
+    {
+        "name": "Tanti Widya",
+        "email": "",
+        "rating": 4,
+        "category": "Akurasi Hasil",
+        "text": "Cukup membantu mengambil keputusan yang tepat."
+    },
+    {
+        "name": "Fajar Santika",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "UI-nya simpel, tidak ribet."
+    },
+    {
+        "name": "Rita Suryani",
+        "email": "",
+        "rating": 5,
+        "category": "Fitur Tambahan",
+        "text": "Penjelasan tiap langkahnya memudahkan pemahaman."
+    },
+    {
+        "name": "Heri Purwanto",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Langkah-langkahnya jelas dan mudah dipelajari."
+    },
+    {
+        "name": "Sinta Maharani",
+        "email": "",
+        "rating": 4,
+        "category": "Akurasi Hasil",
+        "text": "Rekomendasi yang diberikan cukup baik."
+    },
+    {
+        "name": "Wahono Subekti",
+        "email": "",
+        "rating": 5,
+        "category": "Tampilan Interface",
+        "text": "Antarmuka nyaman digunakan dalam waktu lama."
+    },
+    {
+        "name": "Lina Wati",
+        "email": "",
+        "rating": 5,
+        "category": "Fitur Tambahan",
+        "text": "Fitur perbandingan dan detailnya sangat membantu."
+    },
+    {
+        "name": "Hariyanto Saputra",
+        "email": "",
+        "rating": 5,
+        "category": "Kemudahan Penggunaan",
+        "text": "Tidak perlu banyak belajar, langsung paham."
+    },
+    {
+        "name": "Dewi Anggraini",
+        "email": "",
+        "rating": 5,
+        "category": "Akurasi Hasil",
+        "text": "Akurat dan sangat membantu untuk memilih ban."
+    }
+]
