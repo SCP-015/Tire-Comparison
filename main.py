@@ -204,7 +204,7 @@ elif page == "📊 Tire Comparison":
             try:
                 st.image(ban['gambar'], caption=ban['nama'], use_container_width=True)
             except:
-                st.image("https://dummyimage.com/150x100/eeeeee/000000&text=No+Image", caption=ban['nama'], use_container_width=True)
+                st.image("images/images/EP TYRES ACCELERA ECO PLUSH 165 65 R14.jpg", caption=ban['nama'], use_container_width=True)
             
             # Check if already selected
             is_selected = ban['id'] in st.session_state.get("selected_ids", [])
