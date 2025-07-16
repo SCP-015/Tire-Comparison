@@ -594,13 +594,24 @@ elif page == "🔥 Hot Comparison":
 
             st.markdown("---")
             st.subheader("📊 Grafik Dominasi Juara 1")
-
-            if juara1:
-                df_juara1 = [{"Ban": nama, "Juara 1": jumlah} for nama, jumlah in juara1.items()]
-                fig = px.bar(df_juara1, x="Ban", y="Juara 1", color="Ban", title="Ban Paling Sering Juara 1")
+            
+            if juara1 and len(juara1) > 0:
+                # Konversi data Counter ke list of dict
+                df_juara1 = [
+                    {"Ban": nama, "Juara 1": jumlah}
+                    for nama, jumlah in juara1.items()
+                ]
+                fig = px.bar(
+                    df_juara1,
+                    x="Ban",
+                    y="Juara 1",
+                    color="Ban",
+                    title="Ban Paling Sering Juara 1"
+                )
                 st.plotly_chart(fig, use_container_width=True)
             else:
                 st.info("Belum ada data Juara 1.")
+
 
 
 
